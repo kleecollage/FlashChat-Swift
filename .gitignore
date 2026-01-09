@@ -1,0 +1,21 @@
+# Pods
+Pods/
+Podfile.lock
+
+# Xcode
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# DerivedData
+DerivedData/
+
+# Build
+build/
+*.ipa
+
+# Mac
+.DS_Store
+
+# Swift Package Manager
+.swiftpm/
